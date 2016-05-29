@@ -37,8 +37,7 @@ e mais...
 
 ## Versões comunitárias
 
-<p style="text-align: justify;">Cinnamon, Enlightenment, Fluxbox, Gnome, i3, LXDE, LXQT, MATE, Netbook, Openbox, PekWM, Bspwm e JWM podem ser baixados a partir das edições comunitárias.</p>
-
+<p style="text-align: justify;">Cinnamon, Enlightenment, Fluxbox, Gnome, i3, LXDE, LXQT, MATE, Netbook, Openbox, PekWM, Bspwm e JWM.</p>
 
  - [Manjaro Community Edition](https://sourceforge.net/projects/manjarolinux/files/community/)
 
