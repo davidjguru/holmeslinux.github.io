@@ -6,9 +6,8 @@ permalink: /jwm/
 
 <img src="http://www.auplod.com/u/daupol7e5c5.png">
 
-Manjaro JWM Community Edition é um spin do Manjaro Linux usando o [JWM](http://joewing.net/projects/jwm/index.shtml) e é mantido pela comunidade. JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. 
-Ele está totalmente em C e usa apenas um mínimo da Xlib. O Manjaro JWM Community Edition é pensado para pessoas não-experientes e experientes na manipulação de WMs, que querem ter um sistema totalmente funcional após a sua instalação. 
-Este projeto está em desenvolvimento pesado, então, as coisas podem mudar muito com cada lançamento. Mesmo que a versão atual é rotulada como dev, ela é suficientemente estável para o trabalho do dia-a-dia. Desfrute da liberdade! use e abuse do Manjaro JWM Community Edition.
+<p style="text-align: justify;">Manjaro JWM Community Edition é um spin do Manjaro Linux usando o [JWM](http://joewing.net/projects/jwm/index.shtml) e é mantido pela comunidade. JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. 
+Ele está totalmente em C e usa apenas um mínimo da Xlib. O Manjaro JWM Community Edition é pensado para pessoas não-experientes e experientes na manipulação de WMs, que querem ter um sistema totalmente funcional após a sua instalação. Este projeto está em desenvolvimento pesado, então, as coisas podem mudar muito com cada lançamento. Mesmo que a versão atual é rotulada como dev, ela é suficientemente estável para o trabalho do dia-a-dia. Desfrute da liberdade! use e abuse do Manjaro JWM Community Edition.</p>
 
 ## Equipe
 

@@ -3,11 +3,11 @@ layout: post
 title: Manjaro JWM Edition (code 21516) para testes
 ---
 
-<p style="text-align: justify;">Liberado para testes Manjaro JWM Edition 16.dev Code 21516 - Codnome Daniella.
+Liberado para testes Manjaro JWM Edition 16.dev Code 21516 - Codnome Daniella.
 
 <img src="http://i.imgur.com/n0PseGi.png">
 
-JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. Ele está totalmente em C e usa apenas um mínimo da Xlib. 
+<p style="text-align: justify;">JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. Ele está totalmente em C e usa apenas um mínimo da Xlib.</p> 
 
 ## Principais programas
 
@@ -58,4 +58,4 @@ Esta versão vem com nossos instalador gráfico Thus, bem como a nossa CLI-insta
 * [Download](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.dev/Code%2021516)
 * [Forum Post](https://forum.manjaro.org/t/manjaro-jwm-edition-16-dev-to-tests-code-21516/1925)
 
-vlw fwi, Holmes</p>
+vlw fwi, Holmes
