@@ -9,7 +9,7 @@ title: Manjaro JWM Edition (code 21516) para testes
 
 <p style="text-align: justify;">JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. Ele está totalmente em C e usa apenas um mínimo da Xlib.</p> 
 
-## Principais programas
+## Programas
 
 * Kernel (4.4 LTS);
 * JWM (2.3.5-1);
@@ -33,7 +33,7 @@ title: Manjaro JWM Edition (code 21516) para testes
 
 <p style="text-align: justify;">Esta versão vem com nossos instalador gráfico Thus, bem como a nossa CLI-installer.</p>
 
-## Princiapis cracterísticas
+## Características
 
 * 32bit version used RAM 109MiB and 64bit 119MiB;
 * 32bit version size 740,3MiB and 64bits 811,6MiB;

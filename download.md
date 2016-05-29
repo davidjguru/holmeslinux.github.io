@@ -41,6 +41,7 @@ e mais...
 
 <p style="text-align: justify;">Cinnamon, Enlightenment, Fluxbox, Gnome, i3, LXDE, LXQT, MATE, Netbook, Openbox, PekWM, Bspwm e JWM podem ser baixados a partir das edições comunitárias.</p>
 
+
  - [Manjaro Community Edition](https://sourceforge.net/projects/manjarolinux/files/community/)
 
 ## Download Manjaro Torrents
