@@ -14,8 +14,6 @@ permalink: /download/
  ![MATE]({{ site.baseurl }}/images/desktop-environment-mate.png "MATE edition")
 e mais...
 
-<p style="text-align: justify;">Ambas as versões 32 e 64bits do Manjaro estão disponíveis nos seguintes sabores oficiais:</p>
-
 ## XFCE
 
  - [manjaro-xfce 16.06 (64 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/xfce/manjaro-xfce-16.06-rc1-x86_64.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/xfce/manjaro-xfce-16.06-rc1-x86_64.iso.sig)
@@ -37,7 +35,7 @@ e mais...
  - [manjaro-net 16.06 (32 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/netinstall/manjaro-net-16.06-rc1-i686.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/netinstall/manjaro-net-16.06-rc1-i686.iso.sig)
    `SHA1SUM: 4fd2555d439ac5808f7710f17da1a62afaacb232`
 
-## Outros sabores
+## Versões comunitárias
 
 <p style="text-align: justify;">Cinnamon, Enlightenment, Fluxbox, Gnome, i3, LXDE, LXQT, MATE, Netbook, Openbox, PekWM, Bspwm e JWM podem ser baixados a partir das edições comunitárias.</p>
 
