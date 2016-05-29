@@ -7,7 +7,7 @@ Liberado para testes Manjaro JWM Edition 16.dev Code 21516 - Codnome Daniella.
 
 <img src="http://i.imgur.com/n0PseGi.png">
 
-JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. Ele está totalmente em C e usa apenas um mínimo da Xlib. 
+<p style="text-align: justify;">JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. Ele está totalmente em C e usa apenas um mínimo da Xlib.</p> 
 
 ## Principais programas
 
