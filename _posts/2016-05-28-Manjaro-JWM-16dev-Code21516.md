@@ -11,43 +11,17 @@ title: Manjaro JWM Edition (code 21516) para testes
 
 ## Programas
 
-Kernel (4.4 LTS);
-JWM (2.3.5-1);
-Pacli Package Manager;
-JWMConf Configuration Tool;
-mhwd;
-Manjaro Settings Manager;
-Conky;
-Pale Moon;
-HexChat;
-SmPlayer;
-DeaDBeeF;
-i3lock;
-cbatticon;
-Sakura;
-Medit;
-Conky;
-Feh;
-PCManFM;
-etc.
+<p style="text-align: justify;">Kernel (4.4 LTS); JWM (2.3.5-1); Pacli Package Manager; JWMConf Configuration Tool; mhwd; Manjaro Settings Manager; Conky; Pale Moon; HexChat; SmPlayer; DeaDBeeF; i3lock; cbatticon, Sakura; Medit; Conky; Feh; PCManFM; etc.</p>
 
 <p style="text-align: justify;">Esta versão vem com nossos instalador gráfico Thus, bem como a nossa CLI-installer.</p>
 
 ## Características
 
-32bit version used RAM 109MiB and 64bit 119MiB;
-32bit version size 740,3MiB and 64bits 811,6MiB;
-Scripts Install for AUR, Firewall, Java, Multimedia e Printer;
-Preload e Prelink ativados.
+<p style="text-align: justify;">32bit version used RAM 109MiB e 64bit 119MiB; 32bit version size 740,3MiB e 64bits 811MiB; Scripts Install for AUR, Firewall, Java, Multimedia e Printer; Preload e Prelink ativados.</p>
 
 ## Destaques
 
-JWM Maia Theme;
-GTK Vertex Maia Dark Theme;
-Icon Vertex Maia Theme;
-LightDM Maia Theme;
-Icon Oblogout Maia Dark Theme;
-Collection Wallpapers Perspective.
+<p style="text-align: justify;">JWM Maia Theme; GTK Vertex Maia Dark Theme; Icon Vertex Maia Theme; LightDM Maia Theme; Icon Oblogout Maia Dark Theme; Collection Wallpapers Perspective.</p>
 
 ## Atenção
 
