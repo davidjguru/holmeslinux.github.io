@@ -3,7 +3,7 @@ layout: post
 title: Manjaro JWM Edition (code 21516) para testes
 ---
 
-Liberado para testes Manjaro JWM Edition 16.dev Code 21516 - Codnome Daniella.
+<p style="text-align: justify;">Liberado para testes Manjaro JWM Edition 16.dev Code 21516 - Codnome Daniella.</p>
 
 <img src="http://i.imgur.com/n0PseGi.png">
 
@@ -31,7 +31,7 @@ Liberado para testes Manjaro JWM Edition 16.dev Code 21516 - Codnome Daniella.
 * PCManFM;
 * etc.
 
-Esta versão vem com nossos instalador gráfico Thus, bem como a nossa CLI-installer.
+<p style="text-align: justify;">Esta versão vem com nossos instalador gráfico Thus, bem como a nossa CLI-installer.</p>
 
 ## Princiapis cracterísticas
 

@@ -4,7 +4,7 @@ title: Manjaro ISOs
 permalink: /download/
 ---
 
-Bem-vindo a página de download e aqui você vai encontrar os últimos lançamentos das ISOs para baixar.
+<p style="text-align: justify;">Bem-vindo a página de download e aqui você vai encontrar os últimos lançamentos das ISOs para baixar.</p>
 
  ![XFCE]({{ site.baseurl }}/images/desktop-environment-xfce.png "XFCE edition")
  ![KDE]({{ site.baseurl }}/images/desktop-environment-kde.png "KDE edition")
@@ -14,7 +14,7 @@ Bem-vindo a página de download e aqui você vai encontrar os últimos lançamen
  ![MATE]({{ site.baseurl }}/images/desktop-environment-mate.png "MATE edition")
 e mais...
 
-Ambas as versões 32 e 64bits do Manjaro estão disponíveis nos seguintes sabores oficiais:
+<p style="text-align: justify;">Ambas as versões 32 e 64bits do Manjaro estão disponíveis nos seguintes sabores oficiais:</p>
 
 ## XFCE
 
