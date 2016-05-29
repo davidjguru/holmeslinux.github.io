@@ -51,7 +51,7 @@ Esta versão vem com nossos instalador gráfico Thus, bem como a nossa CLI-insta
 
 ## Atenção
 
-É fortemente recomendado a leitura do Manjaro JWM User Orientation Guide in Menu > Help > Manjaro > Manjaro JWM User Orientation Guide.
+<p style="text-align: justify;">É fortemente recomendado a leitura do Manjaro JWM User Orientation Guide in Menu > Help > Manjaro > Manjaro JWM User Orientation Guide.</p>
 
 ## Links
 
