@@ -29,7 +29,7 @@ title: Manjaro JWM Edition (code 21516) para testes
 
 ## Links
 
-[Download](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.dev/Code%2021516)
-[Forum Post](https://forum.manjaro.org/t/manjaro-jwm-edition-16-dev-to-tests-code-21516/1925)
+* [Download](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.dev/Code%2021516)
+* [Forum Post](https://forum.manjaro.org/t/manjaro-jwm-edition-16-dev-to-tests-code-21516/1925)
 
 vlw fwi, Holmes
