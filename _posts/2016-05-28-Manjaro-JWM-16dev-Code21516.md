@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manjaro JWM Edition (code 21516) para testes
+title: [Teste] Manjaro JWM Edition (code 21516)
 ---
 
 <p style="text-align: justify;">Liberado para testes Manjaro JWM Edition 16.dev Code 21516 - Codnome Daniella.</p>
