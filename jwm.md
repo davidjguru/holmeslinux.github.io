@@ -17,8 +17,8 @@ Este Window Manager está totalmente em C e usa apenas um mínimo da Xlib. O Man
 
 ## Download (estável 16.04 - code 3416)
 
-* [manjaro-jwm 16.04 - 32bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.04/Code%203416/manjaro-jwm-community-16.04-i686-3416.iso/download) MD5SUM `cbfc52670d2dc2684a6db6747e420a9e`
-* [manjaro-jwm 16.04 - 64bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.04/Code%203416/manjaro-jwm-community-16.04-x86_64-3416.iso/download) MD5SUM `06b88b433352f7497bb489a1db247758`
+* [manjaro-jwm 16.04 - 32bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.04/Code%203416/manjaro-jwm-community-16.04-i686-3416.iso/download) `MD5SUM cbfc52670d2dc2684a6db6747e420a9e`
+* [manjaro-jwm 16.04 - 64bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.04/Code%203416/manjaro-jwm-community-16.04-x86_64-3416.iso/download) `MD5SUM 06b88b433352f7497bb489a1db247758`
 * [Manjaro JWM User Orientation Guide](https://sourceforge.net/projects/holmeslinux/files/Documentation/User_Orientation_Guide-16.04.pdf/download)
 
 ## Imagens  
