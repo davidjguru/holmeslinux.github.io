@@ -27,9 +27,9 @@ title: Manjaro JWM Edition (code 21516) para testes
 
 <p style="text-align: justify;">É fortemente recomendado a leitura do Manjaro JWM User Orientation Guide in Menu > Help > Manjaro > Manjaro JWM User Orientation Guide.</p>
 
-## Links
+----
 
 * [Download](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.dev/Code%2021516)
-* [Forum Post](https://forum.manjaro.org/t/manjaro-jwm-edition-16-dev-to-tests-code-21516/1925)
+* [Fórum](https://forum.manjaro.org/t/manjaro-jwm-edition-16-dev-to-tests-code-21516/1925)
 
 vlw fwi, Holmes
