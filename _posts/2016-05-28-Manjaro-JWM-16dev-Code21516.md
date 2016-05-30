@@ -11,13 +11,13 @@ title: Manjaro JWM Edition (code 21516) para testes
 
 ## Programas
 
-<p style="text-align: justify;">Kernel (4.4 LTS); JWM (2.3.5-1); Pacli Package Manager; JWMConf Configuration Tool; mhwd; Manjaro Settings Manager; Conky; Pale Moon; HexChat; SmPlayer; DeaDBeeF; i3lock; cbatticon, Sakura; Medit; Conky; Feh; PCManFM; etc.</p>
+<p style="text-align: justify;">Kernel (4.4 LTS); JWM (2.3.5-1); Pacli Package Manager; JWMConf Configuration Tool; mhwd; Manjaro Settings Manager; Conky; Pale Moon; HexChat; SMPlayer; DeaDBeeF; i3lock; cbatticon, Sakura; Medit; Conky; Feh; PCManFM; etc.</p>
 
-<p style="text-align: justify;">Esta versão vem com nossos instalador gráfico Thus, bem como a nossa CLI-installer.</p>
+<p style="text-align: justify;">Esta versão vem com o instalador gráfico Thus e com o CLI-installer.</p>
 
 ## Características
 
-<p style="text-align: justify;">32bit version used RAM 109MiB e 64bit 119MiB; 32bit version size 740,3MiB e 64bits 811MiB; Scripts Install for AUR, Firewall, Java, Multimedia e Printer; Preload e Prelink ativados.</p>
+<p style="text-align: justify;">32bit version used RAM 109MiB e 64bit 119MiB; 32bit version size 740,3MiB e 64bits 811,5MiB; Scripts Install for AUR, Firewall, Java, Multimedia e Printer; Preload e Prelink ativados.</p>
 
 ## Destaques
 
