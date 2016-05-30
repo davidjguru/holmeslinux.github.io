@@ -4,8 +4,6 @@ title: JWM Edition
 permalink: /jwm/
 ---
 
-<img src="http://www.auplod.com/u/daupol7e5c5.png">
-
 <img src="http://www.auplod.com/u/dlpauo7e6bf.png">
 
 <p style="text-align: justify;">Manjaro JWM Community Edition é um spin do Manjaro Linux usando o JWM e é mantido pela comunidade. JWM (Joe's Window Manager) é um gerenciador de janelas para o X Window System escrito por Joe Wingbermuehle. 
