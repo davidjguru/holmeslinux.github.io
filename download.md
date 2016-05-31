@@ -4,7 +4,7 @@ title: Manjaro ISOs
 permalink: /download/
 ---
 
-<p style="text-align: justify;">Aqui você vai encontrará as últimas ISOs para baixar.</p>
+<p style="text-align: justify;">Aqui você vai encontrar as últimas ISOs para baixar.</p>
 
  ![XFCE]({{ site.baseurl }}/images/desktop-environment-xfce.png "XFCE edition")
  ![KDE]({{ site.baseurl }}/images/desktop-environment-kde.png "KDE edition")
