@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pacli: CLI para pacman e yaourt
+title: Pacli, CLI para pacman e yaourt
 ---
 
 <p style="text-align: justify;"><a href="https://forum.manjaro.org/t/pacli-cli-pacman-yaourt-helper/608">Spatry</a> fez um vídeo mostrando as potencialidades do Pacli.</p>
