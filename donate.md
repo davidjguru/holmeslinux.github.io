@@ -4,30 +4,18 @@ title: Donate
 permalink: /donate/
 ---
 
-Manjaro Linux survives because of the tireless efforts of many people in the community and the core development circle and having joy to develop on this great open source project!
+<p style="text-align: justify;">Manjaro Linux sobrevive por causa dos esforços incansáveis de muitas pessoas na comunidade e no círculo de seu desenvolvimento. Há muitas maneiras para ajudar o Manjaro Linux. Se técnicas de desenvolvimento, documentação ou de apoio não são seus pontos fortes, então, você poderia nos ajudar financeiramente. As doações abrangerá principalmente as despesas de funcionamento do servidor web. Qualquer excedente pode ser para atividades especiais (tais como assistir a conferências e feiras) utilizadas pelos Manjaro Linux.</p>
 
-There are many ways to help support Manjaro Linux. If technical development, documentation, or support aren’t your strong points, you could certainly help us by dropping a few bucks our way.
+## Condições
 
-Many thanks!
+* Não há direitos ou privilégios associados a um depósito.
+* Todas as doações são anônimas (as informações do remetente não são publicados ou compartilhados).
+* Um recibo de doação relacionados com o imposto não pode ser emitido porque Manjaro Linux não é uma organização comercial.
+* Legalmente, é uma doação privada.
 
- 
-## Use of Donations
+<p style="text-align: justify;">Sobre a transferência informar a palavra **donation** deve ser mencionado na área **purpose**.</p> 
 
-In order to keep Manjaro.org independently, free from advertising and to be able to operate the webpage in normal speed, we would appreciate your financial support.
-
-The donations will mainly cover the operating costs of the webserver. Any surplus may be for special activities (such as attending conferences and trade shows) used by Manjaro.org
-
- 
-## Conditions
-
-- No rights or privileges are associated with a deposit.
-- All donations are anonymous. Any sender details are not published or shared.
-- A tax-related donation receipt can not be issued because Manjaro.org is not a commercial and registered organization.
-- Legally, it is a private donation.
-
-On the transfer form the word **donation** must be mentioned in the **purpose** area. Who also indicates his email address, receives on request a confirmation of receipt.
-
-## Bank Account
+## Conta bancária
 
 <table>
 <tbody>
