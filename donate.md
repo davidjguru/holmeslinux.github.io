@@ -4,7 +4,7 @@ title: Doação
 permalink: /donate/
 ---
 
-<p style="text-align: justify;">Manjaro Linux sobrevive por causa dos esforços incansáveis de muitas pessoas na comunidade e no círculo de seu desenvolvimento. Há muitas maneiras para ajudar o Manjaro Linux. Se técnicas de desenvolvimento, documentação ou de apoio não são seus pontos fortes, então, você poderia nos ajudar financeiramente. As doações abrangerá principalmente as despesas de funcionamento do servidor web. Qualquer excedente pode ser para atividades especiais (tais como assistir a conferências e feiras) utilizadas pelos Manjaro Linux.</p>
+<p style="text-align: justify;">Manjaro Linux sobrevive por causa dos esforços incansáveis de muitas pessoas na comunidade e no círculo de seu desenvolvimento. Há muitas maneiras para ajudar o Manjaro Linux. Se técnicas de desenvolvimento, documentação ou de apoio não são seus pontos fortes, então, você poderia nos ajudar financeiramente. As doações atenderão principalmente as despesas de funcionamento do servidor web. Qualquer excedente pode ser para atividades especiais utilizadas pelo Manjaro Linux.</p>
 
 ## Condições
 
@@ -28,7 +28,7 @@ permalink: /donate/
 <td style="text-align: left;">695275708</td>
 </tr>
 <tr>
-<th style="text-align: left;">Bank Identification Number:</th>
+<th style="text-align: left;">Bank Identification:</th>
 <td style="text-align: left;">60010070</td>
 </tr>
 <tr>
