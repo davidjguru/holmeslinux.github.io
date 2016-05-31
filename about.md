@@ -85,7 +85,7 @@ permalink: /about/
 * libxft para suporte a fontes;
 * libfribidi para suporte a idiomas.
 
-<p style="text-align: justify;">JWM está em conformidade com a <a href="http://joewing.net/projects/jwm/mwm.shtml">ICCCM</a> e suporta tanto <a href="http://joewing.net/projects/jwm/mwm.shtml">MWM</a> e <a href="http://joewing.net/projects/jwm/ewmh.shtml">Extended Window Manager Hints</a>. Isto significa que o JWM atende os requisitos exigidos pelos Windows Manager.
+<p style="text-align: justify;">JWM está em conformidade com a <a href="http://joewing.net/projects/jwm/mwm.shtml">ICCCM</a> e suporta tanto <a href="http://joewing.net/projects/jwm/mwm.shtml">MWM</a> e <a href="http://joewing.net/projects/jwm/ewmh.shtml">Extended Window Manager Hints</a>. Isto significa que o JWM atende os requisitos exigidos pelos Windows Manager.</p>
 
 ## Comparativo: consumo de memória
 
