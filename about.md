@@ -74,16 +74,16 @@ permalink: /about/
 
 <p style="text-align: justify;">JWM é um gerenciador de janelas leve para o X11 Window System. JWM é escrito em C e utiliza, no mínimo, apenas <a href="https://es.wikipedia.org/wiki/Xlib">Xlib</a>. Por causa de seu pequeno tamanho, JWM é um ótimo gerenciador de janelas para computadores mais antigas e sistemas com pouca potência; por outro lado ele é perfeitamente capaz de trabalhar perfeitamente em sistemas modernos. JWM está em distribuições pequenas, como Puppy Linux e Damn Small Linux, e ele também está disponível em muitas outras distribuições GNU/Linux. Embora não seja obrigatório, o JWM pode usar, se disponíveis, as seguintes bibliotecas:</p>
 
-*libXext para extensão de forma;
-*libXext para extensão de renderização;
-*libXmu para arredondado da janelas;
-*libXinerama para Xinerama (multi-monitor);
-*libXpm para XPM, wallpapers e ícones;
-*libjpeg para JPEG, wallpapers e ícones;
-*libpng para PNG, wallpapers e ícones;
-*librsvg e Cairo para SVG, wallpapers e ícones;
-*libxft para suporte a fontes;
-*libfribidi para suporte a idiomas.
+* libXext para extensão de forma;
+* libXext para extensão de renderização;
+* libXmu para arredondado da janelas;
+* libXinerama para Xinerama (multi-monitor);
+* libXpm para XPM, wallpapers e ícones;
+* libjpeg para JPEG, wallpapers e ícones;
+* libpng para PNG, wallpapers e ícones;
+* librsvg e Cairo para SVG, wallpapers e ícones;
+* libxft para suporte a fontes;
+* libfribidi para suporte a idiomas.
 
 <p style="text-align: justify;">JWM está em conformidade com a <a href="http://joewing.net/projects/jwm/mwm.shtml">ICCCM</a> e suporta tanto <a href="http://joewing.net/projects/jwm/mwm.shtml">MWM</a> e <a href="http://joewing.net/projects/jwm/ewmh.shtml">Extended Window Manager Hints (EWMH)</a></p>.
 
@@ -93,15 +93,15 @@ permalink: /about/
 
 ## Suporte
 
-<p style="text-align: justify;">Pode ser via <a href="http://github.com/joewing/jwm/">GitHub</a></p> ou e-mail joewing@joewing.net.</p> 
+<p style="text-align: justify;">Pode ser via <a href="http://github.com/joewing/jwm/">GitHub</a> ou email joewing@joewing.net.</p> 
 
 ## Sites interessantes
 
-*href="http://joewing.net/projects/jwm/mwm.shtml">JWM (inglês)</a>
-*href="http://joewing.net/projects/jwm/config.shtml">JWM Configurações (inglês)</a> 
-*href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux (inglês)</a> 
-*href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italiano)</a>
-*href="http://manualinux.eu/jwm.html">JWM Manual (espanhol)</a>
+* <a href="http://joewing.net/projects/jwm/mwm.shtml">JWM (inglês)</a>
+* <a href="http://joewing.net/projects/jwm/config.shtml">JWM Configurações (inglês)</a> 
+* <a href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux (inglês)</a> 
+* <a href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italiano)</a>
+* <a href="http://manualinux.eu/jwm.html">JWM Manual (espanhol)</a>
 
 ------
 
