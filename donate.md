@@ -9,7 +9,7 @@ permalink: /donate/
 ## Condições
 
 * <p style="text-align: justify;">Não há direitos ou privilégios associados a um depósito.</p>
-* <p style="text-align: justify;">Todas as doações são anônimas (as informações do remetente não são publicados ou compartilhados).</p>
+* <p style="text-align: justify;">Todas as doações são anônimas (as informações do remetente não são publicadas ou compartilhadas).</p>
 * <p style="text-align: justify;">Um recibo de doação relacionados com o imposto não pode ser emitido porque Manjaro Linux não é uma organização comercial.</p>
 * <p style="text-align: justify;">Legalmente, é uma doação privada.</p>
 
@@ -28,7 +28,7 @@ permalink: /donate/
 <td style="text-align: left;">695275708</td>
 </tr>
 <tr>
-<th style="text-align: left;">Bank Identification:</th>
+<th style="text-align: left;">Bank Identification Number:</th>
 <td style="text-align: left;">60010070</td>
 </tr>
 <tr>
