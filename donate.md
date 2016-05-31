@@ -13,9 +13,9 @@ permalink: /donate/
 <strong>(iii)</strong> Um recibo de doação relacionados com o imposto não pode ser emitido porque Manjaro Linux não é uma organização comercial.
 <strong>(iv)</strong> Legalmente, é uma doação privada.</p>
 
-<p style="text-align: justify;">Sobre a transferência informar a palavra donation deve ser mencionado na área purpose.</p> 
+<p style="text-align: justify;">Sobre a transferência informar a palavra <strong>donation</strong> na área <strong>purpose</strong>.</p> 
 
-## Conta bancária
+## Informações bancárias
 
 <table>
 <tbody>
