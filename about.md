@@ -65,3 +65,11 @@ permalink: /about/
 ## Conclusão
 
 <p style="text-align: justify;">O Manjaro Linux é simples de se obter, instalar, configurar e, consequentemente, usar! Após a instalação, temos uma distribuição em nosso idioma (português do Brasil), que vai oferecer todos os benefícios de um sistema ArchLinux, mas com uma ênfase especial na eficiência, estabilidade, confiabilidade, inovação e acessibilidade aos usuários novatos ou experientes no mundillo GNU/Linux.</p>
+
+------
+
+<img src="http://www.auplod.com/u/adloup7e87f.png">
+
+## Holmes
+
+<p style="text-align: justify;">Fundador do <a href="http://www.chakra-linux.com.br/forum/portal.php">Chakra Brasil</a>, do Manjaro Brasil e <a href="http://manjaro-es.org/">Manjaro Hispano</a>. Usa GNU/Linux desde 2009 e está com Manjaro Linux desde 2012. Atualmente é mantenedor do Manjaro JWM Community Edition.</p>
