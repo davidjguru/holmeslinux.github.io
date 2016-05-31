@@ -34,3 +34,9 @@ Este Window Manager está totalmente em C e usa apenas um mínimo da Xlib. O Man
 * 15.09 (code 111015)
 
 <img src="http://i.imgur.com/CDwu3iE.png">
+
+------
+
+* 16.dev (standby)
+
+<img src="http://www.auplod.com/u/laudpo7e893.png">
