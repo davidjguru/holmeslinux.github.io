@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donate
+title: Doação
 permalink: /donate/
 ---
 
@@ -8,12 +8,12 @@ permalink: /donate/
 
 ## Condições
 
-* Não há direitos ou privilégios associados a um depósito.
-* Todas as doações são anônimas (as informações do remetente não são publicados ou compartilhados).
-* Um recibo de doação relacionados com o imposto não pode ser emitido porque Manjaro Linux não é uma organização comercial.
-* Legalmente, é uma doação privada.
+* <p style="text-align: justify;">Não há direitos ou privilégios associados a um depósito.</p>
+* <p style="text-align: justify;">Todas as doações são anônimas (as informações do remetente não são publicados ou compartilhados).</p>
+* <p style="text-align: justify;">Um recibo de doação relacionados com o imposto não pode ser emitido porque Manjaro Linux não é uma organização comercial.</p>
+* <p style="text-align: justify;">Legalmente, é uma doação privada.</p>
 
-<p style="text-align: justify;">Sobre a transferência informar a palavra **donation** deve ser mencionado na área **purpose**.</p> 
+<p style="text-align: justify;">Sobre a transferência informar a palavra donation deve ser mencionado na área purpose.</p> 
 
 ## Conta bancária
 
