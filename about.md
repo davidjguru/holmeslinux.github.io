@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="http://www.auplod.com/u/upodal7e6c1.png">
 
-## Nome
+## Manjaro
 
 <p style="text-align: justify;">A distribuição tem este nome porque Philip Müller, um dos líderes do projeto, e amigos fizeram uma viagem nas proximidades da montanha Kilimanjaro, que fica situada ao nordeste da Tanzânia (África). Eles, em especial Philip Müller, ficaram encantados com a beleza que o local proporciona. Devido a isto, a distribuição se chama Manjaro para homenagear a montanha Kilimanjaro que, por sua vez, é um nome simpático e simples.</p>
 
@@ -85,7 +85,7 @@ permalink: /about/
 * libxft para suporte a fontes;
 * libfribidi para suporte a idiomas.
 
-<p style="text-align: justify;">JWM está em conformidade com a <a href="http://joewing.net/projects/jwm/mwm.shtml">ICCCM</a> e suporta tanto <a href="http://joewing.net/projects/jwm/mwm.shtml">MWM</a> e <a href="http://joewing.net/projects/jwm/ewmh.shtml">Extended Window Manager Hints (EWMH)</a></p>.
+JWM está em conformidade com a <a href="http://joewing.net/projects/jwm/mwm.shtml">ICCCM</a> e suporta tanto <a href="http://joewing.net/projects/jwm/mwm.shtml">MWM</a> e <a href="http://joewing.net/projects/jwm/ewmh.shtml">Extended Window Manager Hints (EWMH)</a>.
 
 ## Comparativo: consumo de memória
 
