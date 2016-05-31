@@ -37,7 +37,7 @@ e mais...
 
 ## Versões comunitárias
 
-<p style="text-align: justify;">Ativas: BspWM, Deepin, Lxqt, LXDE, Cinnamon, i3, JWM, Gnome, Mate, Budgie e Netbook. Inativas: Enligtenment, Fluxbox, Openbox e PekWM. </p>
+<p style="text-align: justify;"><strong>Ativas</strong>: BspWM, Deepin, Lxqt, LXDE, Cinnamon, i3, JWM, Gnome, Mate, Budgie e Netbook. <strong>Inativas</strong>: Enligtenment, Fluxbox, Openbox e PekWM. </p>
 
  - [Manjaro Community Edition](https://sourceforge.net/projects/manjarolinux/files/community/)
 
