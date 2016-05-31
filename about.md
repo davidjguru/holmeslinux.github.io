@@ -68,7 +68,7 @@ permalink: /about/
 
 ------
 
-<img src="http://www.auplod.com/u/upodal7e6c1.png">
+<img src="http://www.auplod.com/u/ludpoa7e9c0.png">
 
 ## JWM (Joe's Window Manager)
 
