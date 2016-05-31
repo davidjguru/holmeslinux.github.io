@@ -72,4 +72,4 @@ permalink: /about/
 
 ## Holmes
 
-<p style="text-align: justify;">Fundador do <a href="http://www.chakra-linux.com.br/forum/portal.php">Chakra Brasil</a>, do Manjaro Brasil e <a href="http://manjaro-es.org/">Manjaro Hispano</a>. Usa GNU/Linux desde 2009 e está com Manjaro Linux desde 2012. Atualmente é mantenedor do Manjaro JWM Community Edition.</p>
+<p style="text-align: justify;">Fundador do <a href="http://www.chakra-linux.com.br/forum/portal.php">Chakra Brasil</a>, do Manjaro Brasil e do <a href="http://manjaro-es.org/">Manjaro Hispano</a>. Usa GNU/Linux desde 2009 e está com o Manjaro Linux desde 2012. Atualmente é mantenedor do Manjaro JWM Community Edition.</p>
