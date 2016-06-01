@@ -6,7 +6,7 @@ permalink: /donate/
 
 <p style="text-align: justify;">Manjaro Linux sobrevive por causa dos esforços incansáveis de muitas pessoas na comunidade e no círculo de seu desenvolvimento. Há muitas maneiras para ajudar o Manjaro Linux. Se técnicas de desenvolvimento, documentação ou de apoio não são seus pontos fortes, então, você poderia nos ajudar financeiramente. As doações atenderão principalmente as despesas de funcionamento do servidor web. Qualquer excedente pode ser para atividades especiais utilizadas pelo Manjaro Linux.</p>
 
-## Condições
+### Condições
 
 <p style="text-align: justify;"><strong>(i)</strong> Não há direitos ou privilégios associados a um depósito.
 <strong>(ii)</strong> Todas as doações são anônimas (as informações do remetente não são publicadas ou compartilhadas).
@@ -15,37 +15,15 @@ permalink: /donate/
 
 <p style="text-align: justify;">Sobre a transferência informar a palavra <strong>donation</strong> na área <strong>purpose</strong>.</p> 
 
-## Informações bancárias
+### Informações bancárias
 
-<table>
-<tbody>
-<tr>
-<th style="text-align: left;">Account Holder:</th>
-<td style="text-align: left;">Roland Singer</td>
-</tr>
-<tr>
-<th style="text-align: left;">Account Number:</th>
-<td style="text-align: left;">695275708</td>
-</tr>
-<tr>
-<th style="text-align: left;">Bank Identification Number:</th>
-<td style="text-align: left;">60010070</td>
-</tr>
-<tr>
-<th style="text-align: left;">Bank:</th>
-<td style="text-align: left;">Postbank</td>
-</tr>
-<tr>
-<th style="text-align: left;">BIC:</th>
-<td style="text-align: left;">PBNKDEFF</td>
-</tr>
-<tr>
-<th style="text-align: left;">IBAN:</th>
-<td style="text-align: left;">DE68600100700695275708</td>
-</tr>
-</tbody>
-</table>
+Account Holder: Roland Singer
+Account Number: 695275708 
+Bank Identification Number: 60010070
+Bank: Postbank
+BIC: PBNKDEFF
+IBAN: DE68600100700695275708  
 
-## Paypal
+### Paypal
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick" /> <input type="hidden" name="hosted_button_id" value="CMZENCJDAF2TL" /> <input type="image" alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /> <img alt="" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1" border="0" /></form>
