@@ -87,6 +87,11 @@ permalink: /about/
 
 <p style="text-align: justify;">JWM está em conformidade com a <a href="http://joewing.net/projects/jwm/mwm.shtml">ICCCM</a> e suporta tanto <a href="http://joewing.net/projects/jwm/mwm.shtml">MWM</a> e <a href="http://joewing.net/projects/jwm/ewmh.shtml">Extended Window Manager Hints</a>. Isto significa que o JWM atende os requisitos exigidos pelos Windows Manager.</p>
 
+### Versão atual
+
+* <a href="http://joewing.net/projects/jwm/release-2.3.shtml#v2.3.5">2.3.5 - 26/03/2016</a>
+
+
 ### Comparativo: consumo de memória
 
 <img src="http://www.auplod.com/u/ulopda7e9bd.png">
