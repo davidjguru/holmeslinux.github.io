@@ -91,10 +91,6 @@ permalink: /about/
 
 <img src="http://www.auplod.com/u/ulopda7e9bd.png">
 
-### Suporte
-
-<p style="text-align: justify;">Pode ser via <a href="http://github.com/joewing/jwm/">GitHub</a> ou email <i>joewing@joewing.net</i>.</p> 
-
 ### Sites interessantes
 
 * <a href="http://joewing.net/projects/jwm/mwm.shtml">JWM (inglês)</a>
@@ -102,6 +98,10 @@ permalink: /about/
 * <a href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux (inglês)</a> 
 * <a href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italiano)</a>
 * <a href="http://manualinux.eu/jwm.html">JWM Manual (espanhol)</a>
+
+### Suporte
+
+<p style="text-align: justify;">Pode ser via <a href="http://github.com/joewing/jwm/">GitHub</a> ou email <i>joewing@joewing.net</i>.</p>
 
 ------
 
