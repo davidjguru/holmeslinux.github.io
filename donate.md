@@ -17,12 +17,12 @@ permalink: /donate/
 
 ### Informações bancárias
 
-Account Holder: Roland Singer
-Account Number: 695275708 
-Bank Identification Number: 60010070
-Bank: Postbank
-BIC: PBNKDEFF
-IBAN: DE68600100700695275708  
+*Account Holder: Roland Singer
+*Account Number: 695275708 
+*Bank Identification Number: 60010070
+*Bank: Postbank
+*BIC: PBNKDEFF
+*IBAN: DE68600100700695275708  
 
 ### Paypal
 
