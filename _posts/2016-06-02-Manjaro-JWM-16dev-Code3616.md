@@ -17,7 +17,7 @@ title: Testes Manjaro JWM Edition (code 3616)
 
 ### Características
 
-<p style="text-align: justify;">32bit version used RAM 103MiB e 64bit 114MiB; 32bit version size 723,5MiB e 64bits 794,8MiB; Scripts Install for AUR, Firewall, Java, Multimedia e Printer; Preload e Prelink ativados.</p>
+<p style="text-align: justify;">32bit version used RAM 103MiB e 64bit 114MiB; 32bit version size 723,5MiB e 64bits 794,8MiB; Scripts Install AUR, Firewall, Java, Multimedia e Printer; Preload e Prelink ativados.</p>
 
 ### Destaques
 
