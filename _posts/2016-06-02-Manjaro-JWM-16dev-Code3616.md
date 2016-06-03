@@ -30,6 +30,6 @@ title: Testes Manjaro JWM Edition (code 3616)
 ----
 
 * [Download](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.dev/Code%203616/)
-* [Manjaro Forum](https://forum.manjaro.org/t/manjaro-jwm-edition-16-dev-to-tests-code-3616/3048) e [Manjaro Brasil](http://manjaro-linux.com.br/forum/noticias/manjaro-jwm-edition-16-dev-code-21516-para-testes-t3897.html) 
+* [Manjaro Forum](https://forum.manjaro.org/t/manjaro-jwm-edition-16-dev-to-tests-code-3616/3048) e [Manjaro Brasil](http://manjaro-linux.com.br/forum/post21681.html#p21681) 
 
 vlw fwi, Holmes
