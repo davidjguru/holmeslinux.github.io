@@ -32,7 +32,7 @@ permalink: /about/
 
 ### Interfaces gráficas
 
-<p style="text-align: justify;">Tem duas excelentes interfaces gráficas (XFCE, KDE e Net-Edition), que são otimizadas para o uso do dia-a-dia. Todavia, esta distribuição vem com outros sabores ambientais tocados pelas comunidades com, por exemplo: Cinnamon, Enlightenment, Fluxbox, Gnome, i3, LXDE, LXQT, MATE, Netbook, Openbox, PekWM, Bspwm e JWM.</p>
+<p style="text-align: justify;">Tem duas excelentes interfaces gráficas (XFCE e KDE), que são otimizadas para o uso do dia-a-dia. Todavia, esta distribuição vem com outros sabores ambientais tocados pelas comunidades com, por exemplo: Ativas: Net-Edition, BspWM, Deepin, Lxqt, LXDE, Cinnamon, i3, JWM, Gnome, Mate, Budgie e Netbook. Inativas: Enligtenment, Fluxbox, Openbox e PekWM.</p>
 
 ### Atualização
 
