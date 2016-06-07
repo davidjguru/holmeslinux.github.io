@@ -16,24 +16,24 @@ e mais...
 
 ### XFCE
 
- - [manjaro-xfce 16.06 (64 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/xfce/manjaro-xfce-16.06-rc1-x86_64.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/xfce/manjaro-xfce-16.06-rc1-x86_64.iso.sig)
-   `SHA1SUM: 7b6cba4b1f3b16baba9e6070671f5ccd4d2ef381`
- - [manjaro-xfce 16.06 (32 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/xfce/manjaro-xfce-16.06-rc1-i686.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/xfce/manjaro-xfce-16.06-rc1-i686.iso.sig)
-   `SHA1SUM: 7c832fcce95a46de12d93b110283d691c254ecf4`
+ - [manjaro-xfce 16.06 (64 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06/xfce/manjaro-xfce-16.06-x86_64.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06/xfce/manjaro-xfce-16.06-x86_64.iso.sig)
+   `SHA1SUM: d2d93c99a51736afbf62971d07c65f8dfb03e7e7`
+  - [manjaro-xfce 16.06 (32 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06/xfce/manjaro-xfce-16.06-i686.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06/xfce/manjaro-xfce-16.06-i686.iso.sig)
+   `SHA1SUM: 2a70e08f943d9ecaf8d5bbe078bfa00fc6747595`
 
 ### KDE
 
- - [manjaro-kde 16.06 (64 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/kde/manjaro-kde-16.06-rc1-x86_64.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/kde/manjaro-kde-16.06-rc1-x86_64.iso.sig)
-   `SHA1SUM: e89d6e6f9cc0433dd916fd3efe34267067719273`
- - [manjaro-kde 16.06 (32 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/kde/manjaro-kde-16.06-rc1-i686.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/kde/manjaro-kde-16.06-rc1-i686.iso.sig)
-   `SHA1SUM: ff849b6fbc0730bf708450387d3740f7396d7db8`
+ - [manjaro-kde 16.06 (64 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06/kde/manjaro-kde-16.06-x86_64.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06/kde/manjaro-kde-16.06-x86_64.iso.sig)
+   `SHA1SUM: 1eeb9327ebca784d91cfb3bfa4f3e90449671354`
+  - [manjaro-kde 16.06 (32 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06/kde/manjaro-kde-16.06-i686.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06/kde/manjaro-kde-16.06-i686.iso.sig)
+   `SHA1SUM: 8750b1f5d8ea313be729eeb911ebcfc1e05829f0`
 
 ### Net-Edition
 
- - [manjaro-net 16.06 (64 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/netinstall/manjaro-net-16.06-rc1-x86_64.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/netinstall/manjaro-net-16.06-rc1-x86_64.iso.sig)
-   `SHA1SUM: 67da8a4cc1c51f0cc3325f0f00a92c5a6933a02d`
- - [manjaro-net 16.06 (32 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/netinstall/manjaro-net-16.06-rc1-i686.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06-rc1/netinstall/manjaro-net-16.06-rc1-i686.iso.sig)
-   `SHA1SUM: 4fd2555d439ac5808f7710f17da1a62afaacb232`
+  - [manjaro-net 16.06 (64 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06/netinstall/manjaro-net-16.06-x86_64.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06/netinstall/manjaro-net-16.06-x86_64.iso.sig)
+   `SHA1SUM: 919a452c416b4d8806cff1c5d0701d2407e653e1`
+ - [manjaro-net 16.06 (32 bit)](http://sourceforge.net/projects/manjarolinux/files/release/16.06/netinstall/manjaro-net-16.06-i686.iso) [SIG](http://sourceforge.net/projects/manjarolinux/files/release/16.06/netinstall/manjaro-net-16.06-i686.iso.sig)
+   `SHA1SUM: e6a70b745a3290c482131c9cf5b0ec148f0379aa`
 
 ### Versões comunitárias
 
