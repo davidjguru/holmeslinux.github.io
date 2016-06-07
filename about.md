@@ -100,6 +100,7 @@ permalink: /about/
 * <a href="http://joewing.net/projects/jwm/mwm.shtml">JWM (inglês)</a>
 * <a href="http://joewing.net/projects/jwm/config.shtml">JWM Configurações (inglês)</a> 
 * <a href="https://wiki.archlinux.org/index.php/JWM">JWM Wiki ArchLinux (inglês)</a> 
+* <a href="https://extendedreality.wordpress.com/2013/10/03/window-managers-4-jwm-eng/">JWM Manual (inglês)</a>
 * <a href="https://extendedreality.wordpress.com/2013/09/30/window-managers-4-jwm/">JWM Manual (italiano)</a>
 * <a href="http://manualinux.eu/jwm.html">JWM Manual (espanhol)</a>
 
