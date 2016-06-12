@@ -108,7 +108,7 @@ permalink: /about/
 
 ### Suporte
 
-<p style="text-align: justify;">Pode ser via <a href="http://github.com/joewing/jwm/">GitHub</a> ou email <i>joewing@joewing.net</i>.</p>
+<p style="text-align: justify;">Pode ser via <a href="http://github.com/joewing/jwm/">GitHub</a> ou email <a href="mailto:joewing@joewing.net">joewing@joewing.net</a>.</p>
 
 ------
 
