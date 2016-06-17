@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Comunidades Edições 16.06
+title: Comunidades Edições Manjaro 16.06
 ---
 
-<p style="text-align: justify;">Gnome, Cinnamon, Deepin e i3 foram as edições comunitárias liberadas em junho, constituíndo assim a versão 16.06. Vejam umas imagens:</p>
+<p style="text-align: justify;">Gnome, Cinnamon, Deepin e i3 foram as edições comunitárias manjarianas liberadas em junho, constituíndo assim a versão 16.06. Vejam umas imagens:</p>
 
 <strong>Gnome</strong>
 
