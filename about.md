@@ -116,7 +116,7 @@ permalink: /about/
 
 ## Holmes
 
-<p style="text-align: justify;">Fundador do <a href="http://www.chakra-linux.com.br/forum/portal.php">Chakra Brasil</a>, do Manjaro Brasil e do <a href="http://manjaro-es.org/">Manjaro Hispano</a>. Usa GNU/Linux desde 2009 e está com o Manjaro Linux desde 2012. Foi mantenedor do Manjaro PekWM Community Edition e do Manjaro Openbox Community Edition e atualmente é mantenedor do Manjaro JWM Community Edition. O blog "<strong>Holmes: Use e abuse do Manjaro e do JWM</strong>" é um espaço para estar divulgando coisas do mundillo GNU/Linux, sobretudo do Manjanro Linux e do JWM. O local onde este blog é gerenciado:</p>
+<p style="text-align: justify;">Fundador do <a href="http://www.chakra-linux.com.br/forum/portal.php">Chakra Brasil</a>, do Manjaro Brasil e do <a href="http://manjaro-es.org/">Manjaro Hispano</a>. Usa GNU/Linux desde 2009 e está com o Manjaro Linux desde 2012. Foi mantenedor do Manjaro PekWM Community Edition e do Manjaro Openbox Community Edition e atualmente é mantenedor do Manjaro JWM Community Edition. O blog "<strong>Holmes: Use e abuse do Manjaro e do JWM</strong>" é um espaço para estar divulgando coisas do mundillo GNU/Linux, sobretudo do Manjaro Linux e do JWM. O local onde este blog é gerenciado:</p>
 
 <img src="http://wstaw.org/m/2013/12/29/P1010042.JPG">
 
