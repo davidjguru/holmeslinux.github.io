@@ -21,7 +21,7 @@ title: Comunidades Edições Manjaro 16.06
 
 <img src="http://i.imgur.com/TqZqLf3.jpg">
 
-<p style="text-align: justify;">Mais informações sobre estas liberações visitem os links abaixo:</p>
+<p style="text-align: justify;">Cada sabor tem suas particularidades e funcionabilidades, cobrindo assim uma infinidades de interesses, sejam eles particulares ou não! Mais informações sobre estas liberações visitem os links abaixo:</p>
 
 * <a href="https://manjaro.github.io/Manjaro-Gnome-16.06/">Gnome</a>
 * <a href="https://manjaro.github.io/Community-Editions-16.06/">Cinnamon, Deepin e i3</a>
