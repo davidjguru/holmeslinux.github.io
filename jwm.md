@@ -25,11 +25,6 @@ Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib
 * [manjaro-jwm 16.06.1 - 64bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.06.1/Code%2019616/manjaro-jwm-community-16.06.1-x86_64-19616.iso/download) `MD5SUM: b84535be568c2402a3d6689685c8ced1`
 * [Manjaro JWM User Orientation Guide 16.06.1](https://sourceforge.net/projects/holmeslinux/files/Documentation/User_Orientation_Guide-16.06%2C1.pdf/download)
 
-### Versão em desenvolvimento (16.dev - code ?)
-
-* [manjaro-jwm 16.dev - 32bit](?) `MD5SUM: ?`
-* [manjaro-jwm 16.dev - 64bit](?) `MD5SUM: ?`
-
 ### Versões antigas
 
 * 16.04 (code 3416)
