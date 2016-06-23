@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplesmente Manjaro: Speed Art
+title: Simplesmente Manjaro - Speed Art
 ---
 
 <p style="text-align: justify;">Um vídeo legal feito por Ednei para homenagear o Manjaro e consequentemente a comunidade do Manjaro Brasil.</p>
