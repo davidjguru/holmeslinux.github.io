@@ -13,7 +13,7 @@ Nas palavras dele:
 
 <img src="http://www.auplod.com/u/plouda80a85.png">
 
-Toda comunidade do Manjaro Brasil só tem a agradecer pela homenagem e isto mostrar que estamos na direção correta: <strong>ser a comunidade brasileira de referência no suporte ao Manjaro Linux</strong>.</p>
+<p style="text-align: justify;">Toda comunidade do Manjaro Brasil só tem a agradecer pela homenagem e isto mostrar que estamos na direção correta: <strong>ser a comunidade brasileira de referência no suporte ao Manjaro Linux</strong>.</p>
 
 Obrigado...   
 
