@@ -11,6 +11,6 @@ title: Novas imagens do Manjaro JWM Ellada - 16.dev
 
 <img src="http://i.imgur.com/0Is4u8u.png">
 
-<p style="text-align: justify;">Para ver mais algumas imagens visite o link a seguir: <a href="https://forum.manjaro.org/t/new-images-of-manjaro-jwm-16-dev-ellada/4740/1">New images of Manjaro JWM 16.dev (Ellada)</a></p>.
+<p style="text-align: justify;">Para ver mais algumas imagens visite o link a seguir: <a href="https://forum.manjaro.org/t/new-images-of-manjaro-jwm-16-dev-ellada/4740/1">New images of Manjaro JWM 16.dev (Ellada)</a>.</p>
 
 vlw fwi, Holmes
