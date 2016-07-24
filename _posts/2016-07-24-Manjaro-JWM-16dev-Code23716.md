@@ -23,7 +23,7 @@ title: Testes Manjaro JWM Edition (code 23716)
 
 ### Destaques
 
-<p style="text-align: justify;">LXDM substitui LightDM; Xchat substitui Hexchat; Menu JWM compactado; Atualização do Manjaro JWM User Orientation Guide; Atualização das configurações do Conky; JWM Tempura Theme substitui JWM Maia Theme; GTK TempuraFlat substitui GTK Vertex Maia Dark Theme; Icon FaenzaFlattr-Black Theme substitui Icon Vertex Maia Theme; LXDM Tempura Theme substitui LightDM Maia Theme; Icon Oblogout Tempura Theme substitui Icon Oblogout Maia Dark Theme; Collection Wallpapers TempuraBeto substitui Collection Wallpapers Perspective.</p>
+<p style="text-align: justify;">LXDM substitui LightDM; Xchat substitui Hexchat; Menu JWM compactado; Atualização do Manjaro JWM User Orientation Guide; Atualização das configurações do Conky; JWM Tempura Theme substitui JWM Maia Theme; GTK Oomox-Tempura substitui GTK Vertex Maia Dark Theme; Icon FaenzaFlattr-Black Theme substitui Icon Vertex Maia Theme; LXDM Tempura Theme substitui LightDM Maia Theme; Icon Oblogout Tempura Theme substitui Icon Oblogout Maia Dark Theme; Collection Wallpapers TempuraBeto substitui Collection Wallpapers Perspective.</p>
 
 ### Atenção
 
