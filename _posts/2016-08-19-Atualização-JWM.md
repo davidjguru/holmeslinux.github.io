@@ -3,8 +3,6 @@ layout: post
 title: Nova versão do JWM liberada
 ---
 
-<img src="http://www.auplod.com/u/daloup8549c.png">
-
 Joe lançou, no dia 12 de agosto de 2016, a versão 2.3.6 do JWM! 
 
 Vejam as novidades para esta versão:
