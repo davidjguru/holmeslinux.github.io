@@ -20,24 +20,24 @@ e mais...
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
-### KDE 16.08 Ellada
+* ### KDE 16.08 Ellada
 
 <img src="http://wstaw.org/m/2016/09/02/manjaro-kde.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
-### Net-Edition 16.08 Ellada
+* ### Net-Edition 16.08 Ellada
 
 <img src="http://wstaw.org/m/2016/09/02/manjaro-net.png">
 
 Para baixar o Manjaro Net-Edition é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
-### Versões comunitárias
+* ### Versões comunitárias
 
 <p style="text-align: justify;"><strong>Ativas</strong>: BspWM, Deepin, Lxqt, LXDE, Cinnamon, i3, JWM, Gnome, Mate, Budgie e Netbook. <strong>Inativas</strong>: Enligtenment, Fluxbox, Openbox e PekWM. </p>
 
 Para baixar qualquer versão comunitária do Manjaro é só clicar [aqui](https://sourceforge.net/projects/manjarolinux/files/community/).
 
-### Download Manjaro Torrents
+* ### Download Manjaro Torrents
 
 Para baixar qualquer torrent do Manjaro é só clicar [aqui](https://sourceforge.net/projects/manjarotorrents/).
