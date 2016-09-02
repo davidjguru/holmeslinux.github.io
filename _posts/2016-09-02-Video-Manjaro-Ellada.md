@@ -7,4 +7,6 @@ title: Vídeo Manjaro 16.08 Ellada
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/hdutcMjtMsM?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="640" height="360" src="//www.youtube.com/embed/hdutcMjtMsM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
 vlw fwi, Holmes
