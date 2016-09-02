@@ -3,8 +3,6 @@ layout: post
 title: Manjaro 16.08 Ellada liberado
 ---
 
-<img src="https://s21.postimg.org/wf5a7jpfr/ellada.png">
-
 <p style="text-align: justify;">A edição com XFCE continua sendo a nossa principal oferta e tem recebido a atenção que merece. Oferecemos um XFCE que vai surpreender os nossos usuários. Enviamos XFCE 4.12 com esta versão do Manjaro. Estamos focados principalmente em aperfeiçoar a experiência dos nossos usuários com este gerenciador dando-lhe a oportunidade de tirar ao máximo de proveito na usabilidade do XFCE.
 Nossa edição KDE continua a oferecer esse poderoso desktop! Um ambiente de trabalho cada vez mais maduro e rico em recursos com um look-and-feel, e com as vantagens das mais recentes ferramentas do Manjaro. Nós enviamos com esta versão do Manjaro o Plasma 5,7 área de trabalho em combinação com as últimas KDE-Apps 16.04.</p>
 
