@@ -14,7 +14,7 @@ permalink: /download/
  ![MATE]({{ site.baseurl }}/images/desktop-environment-mate.png "MATE edition")
 e mais...
 
-### * XFCE 16.08 Ellada
+* ### XFCE 16.08 Ellada
 
 <img src="http://wstaw.org/m/2016/09/02/manjaro-xfce.png">
 
