@@ -19,18 +19,17 @@ Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib
 * Arte: [Beto](https://github.com/fallenskillz)
 * Documentação: Holmes e blcondes
 
-### Versão instável (16.dev - code 23716)
+### Versão estável (Tempura 16.10 - code 71016)
 
-* [manjaro-jwm 16.dev - 32bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.dev/Code%2023716/manjaro-jwm-community-16.dev-i686-23716.iso/download) `MD5SUM: 00f97684055106c532805a2d28f455ef`
-* [manjaro-jwm 16.dev - 64bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.dev/Code%2023716/manjaro-jwm-community-16.dev-x86_64-23716.iso/download) `MD5SUM: af8e3e143b55214055f7fdd59211a3b4`
-
-### Versão estável (16.06.1 - code 19616)
-
-* [manjaro-jwm 16.06.1 - 32bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.06.1/Code%2019616/manjaro-jwm-community-16.06.1-i686-19616.iso/download) `MD5SUM: ba20719e46bfd9583f5fb38380e76652`
-* [manjaro-jwm 16.06.1 - 64bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.06.1/Code%2019616/manjaro-jwm-community-16.06.1-x86_64-19616.iso/download) `MD5SUM: b84535be568c2402a3d6689685c8ced1`
-* [Manjaro JWM User Orientation Guide 16.06.1](https://sourceforge.net/projects/holmeslinux/files/Documentation/User_Orientation_Guide-16.06%2C1.pdf/download)
+* [manjaro-jwm 16.10 - 32bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.06.1/Code%2019616/manjaro-jwm-community-16.06.1-i686-19616.iso/download) `MD5SUM: ba20719e46bfd9583f5fb38380e76652`
+* [manjaro-jwm 16.10 - 64bit](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.06.1/Code%2019616/manjaro-jwm-community-16.06.1-x86_64-19616.iso/download) `MD5SUM: b84535be568c2402a3d6689685c8ced1`
+* [Manjaro JWM User Orientation Guide 16.10](https://sourceforge.net/projects/holmeslinux/files/Documentation/User_Orientation_Guide-16.10.pdf/download)
 
 ### Versões antigas
+
+* 16.06.1 (code 19616)
+
+[Download](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2016.06.1/)
 
 * 16.04 (code 3416)
 
@@ -44,7 +43,11 @@ Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib
 
 [Download](https://sourceforge.net/projects/holmeslinux/files/Manjaro%20JWM%2015.09-1/Code%20111015/)
 
-### Imagens  
+### Imagens
+
+* 16.10 (code 71016)
+
+<img src="http://wstaw.org/m/2016/10/08/img1.png">  
 
 * 16.06.1 (code 19616)
 
