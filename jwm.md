@@ -45,7 +45,7 @@ Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib
 
 ### Imagens
 
-* 16.10 (code 71016)
+* 16.10 (Tempura - code 71016)
 
 <img src="http://wstaw.org/m/2016/10/08/img1.png">  
 
