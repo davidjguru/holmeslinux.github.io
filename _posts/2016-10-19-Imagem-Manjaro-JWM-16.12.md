@@ -7,8 +7,6 @@ title: Uma única imagem do Manjaro JWM Oncremmer 16.12
 
 <img src="http://www.auplod.com/u/ladpuo8986b.png">
 
-<p style="text-align: justify;">Os botões do Oblogout foram feitos pelo nosso Artwork <strong>Beto</strong>. Se github é:</p>
-
-https://github.com/betos-graphics 
+<p style="text-align: justify;">Os botões do Oblogout foram feitos pelo nosso Artwork <strong>Beto</strong>.</p>
 
 vlw fwi, Holmes
