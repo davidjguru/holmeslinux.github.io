@@ -16,7 +16,7 @@ Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib
 ### Equipe
 
 * Mantenedor: Holmes
-* Arte: [Beto](https://github.com/fallenskillz)
+* Arte: [Beto](https://github.com/betos-graphics)
 * Documentação: Holmes e blcondes
 
 ### Versão estável (Tempura 16.10 - code 71016)
