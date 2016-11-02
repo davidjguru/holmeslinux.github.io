@@ -16,13 +16,13 @@ e mais...
 
 * ### XFCE 16.10 Fringilla
 
-<img src="https://raw.githubusercontent.com/manjaro/manjaro-user-guide/master/images/welcome-to-manjaro-2016/welcome_installed.png">
+<img src="http://www.auplod.com/u/aupdol8a829.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
 * ### KDE 16.10 Fringilla
 
-<img src="https://raw.githubusercontent.com/manjaro/manjaro-user-guide/master/images/editions/kde.png">
+<img src="http://www.auplod.com/u/loupad8a82a.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
