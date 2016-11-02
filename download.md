@@ -14,15 +14,15 @@ permalink: /download/
  ![MATE]({{ site.baseurl }}/images/desktop-environment-mate.png "MATE edition")
 e mais...
 
-* ### XFCE 16.08 Ellada
+* ### XFCE 16.10 Fringilla
 
-<img src="http://wstaw.org/m/2016/09/02/manjaro-xfce.png">
+<img src="https://raw.githubusercontent.com/manjaro/manjaro-user-guide/master/images/welcome-to-manjaro-2016/welcome_installed.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
-* ### KDE 16.08 Ellada
+* ### KDE 16.10 Fringilla
 
-<img src="http://wstaw.org/m/2016/09/02/manjaro-kde.png">
+<img src="https://raw.githubusercontent.com/manjaro/manjaro-user-guide/master/images/editions/kde.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
