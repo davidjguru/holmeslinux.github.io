@@ -11,15 +11,15 @@ title: Comunidades Edições Manjaro 16.10
 
 <strong>Cinnamon</strong>
 
-<img src="http://imgur.com/Lb306d7.png">
+<img src="http://www.auplod.com/u/paduol8a935.png">
 
 <strong>Deepin</strong>
 
-<img src="http://imgur.com/kN0gsSm.png">
+<img src="http://www.auplod.com/u/laodup8a933.png">
 
 <strong>i3</strong>
 
-<img src="http://imgur.com/rIvhkr6.png">
+<img src="http://www.auplod.com/u/lpadou8a936.png">
 
 <p style="text-align: justify;">Cada sabor tem suas particularidades e funcionabilidades, cobrindo assim uma infinidades de interesses, sejam eles particulares ou não! Mais informações sobre estas liberações visitem os links abaixo:</p>
 
