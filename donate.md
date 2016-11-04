@@ -26,4 +26,4 @@ permalink: /donate/
 
 ### Paypal
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick" /> <input type="hidden" name="hosted_button_id" value="CMZENCJDAF2TL" /> <input type="image" alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /> <img alt="" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1" border="0" /></form>
+Para acessar o Paypal do Manjaro Linux é só clicar [aqui](https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=ehooU_EV0OYG-T8tD1I0UfGRJFfnkmVxDcUqn5zG6mWD5zgHVDLu9hHa7ay&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542).
