@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #ForçaChape...#ForçaChape...
+title: ForçaChape...
 ---
 <img src="http://www.auplod.com/u/paduol8ccf5.png">
 
@@ -16,10 +16,10 @@ title: #ForçaChape...#ForçaChape...
 
 <p style="text-align: justify;"><strong>VAMOS...VAMOS...CHAPE...</strong></p>
 
-<p style="text-align: justify;">Gracias Colombia...Gracias Atletico Nacional...</p>
-
 <p style="text-align: justify;"><strong>QUE O ESPÍRITO DE CONDÁ ACOMPANHE TODOS OS CAMPEÕES...</strong></p>
 
-<p style="text-align: justify;">Saudações do Holmes</strong></p> 
+<p style="text-align: justify;">Gracias Colombia...Gracias Atletico Nacional...</p>
+
+<p style="text-align: justify;">Saudações de um humilde lixuneiro...</p> 
 
 vlw fwi, Holmes
