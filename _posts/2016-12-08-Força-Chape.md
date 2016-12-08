@@ -20,6 +20,6 @@ title: ForçaChape...
 
 <p style="text-align: justify;">Gracias Colombia...Gracias Atletico Nacional...</p>
 
-<p style="text-align: justify;">Saudações de um humilde lixuneiro...</p> 
+<p style="text-align: justify;">Saudações de um humilde usuário do GNU/Linux...</p> 
 
 vlw fwi, Holmes
