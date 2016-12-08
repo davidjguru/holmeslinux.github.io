@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ForçaChape...Força!
+title: ForçaChape...Força...
 ---
 <img src="http://www.auplod.com/u/paduol8ccf5.png">
 
