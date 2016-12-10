@@ -14,13 +14,13 @@ permalink: /download/
  ![MATE]({{ site.baseurl }}/images/desktop-environment-mate.png "MATE edition")
 e mais...
 
-* ### XFCE 16.10 Fringilla
+* ### XFCE 16.10.3 Fringilla
 
 <img src="http://www.auplod.com/u/aupdol8a829.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
-* ### KDE 16.10 Fringilla
+* ### KDE 16.10.3 Fringilla
 
 <img src="http://www.auplod.com/u/loupad8a82a.png">
 
