@@ -3,7 +3,7 @@ layout: post
 title: Manjaro JWM Oncremmer 17.dev para testes 
 ---
 
-<p style="text-align: justify;">Recentemente liberei uma versão para testes do Manjaro JWM Oncremmer, que será liberado a versão final em janeiro de 2017.</p>
+<p style="text-align: justify;">Recentemente liberei uma versão para testes do Manjaro JWM Oncremmer (Code 281116), que será liberado a versão final em janeiro de 2017.</p>
 
 <img src="http://www.auplod.com/u/udoalp8c80e.png">
 
