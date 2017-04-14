@@ -6,7 +6,7 @@ permalink: /jwm/
 
 ## Kibojoe = Manjaro + JWM (projeto ativo)
 
-<img width="280" height="170" src="http://www.auplod.com/u/odulpa956db.png"/>
+<img src="http://www.auplod.com/u/aldpuo95759.png">
 
 <p style="text-align: justify;">O Kibojoe é um <strong>re-spin</strong> fácil rápido, elegante e poderoso, que tem como base o Manjaro Linux e o JWM.</p>
 
