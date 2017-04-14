@@ -131,9 +131,9 @@ Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib
 
 ------
 
-<img src="http://www.auplod.com/u/adloup7e87f.png">
-
 ## Holmes
+
+<img src="http://www.auplod.com/u/adloup7e87f.png">
 
 <p style="text-align: justify;">Holmes? O nickname surge em 2010 durante uma atuação no fórum <a href="http://www.gpspoint.com.br/">GPSPoint</a> (sim! sobre GPS, que doideira...na época...GPS...e nem usava GPS...), lá tinha o Sherlock e faltava o Holmes (antes o nickname era Viva...não sei porque do nome...)! Eis aí que surge o Holmes no mundillo GNU/Linux. Mas fui expulso desse fórum...oooooooo....! Fundador do <a href="http://www.chakra-linux.com.br/forum/portal.php">Chakra Brasil</a>, do <a href="http://www.mnjaro-linux.com.br/forum/portal.php">Manjaro Brasil</a> e do <a href="http://manjaro-es.org/">Manjaro Hispano</a>. Usa GNU/Linux desde 2009 e está com o Manjaro Linux desde 2012. Foi mantenedor do Manjaro PekWM Community Edition e do Manjaro Openbox Community Edition e atualmente é mantenedor do Manjaro JWM Community Edition. O blog "<strong>Holmes: GNU/Linux I Manjaro Linux I JWM I Outras Coisas...</strong>" é um espaço para estar divulgando coisas do mundillo GNU/Linux, sobretudo do Manjaro Linux e do JWM. Também é um local "geek" para divulgação de outras nerdices. A mesa de trabalho e onde tudo tudo ocorre: 'hacktivismo', 'comunicação', 'observação', 'indignação', 'alerta', 'alegria', etc.</p>
 
