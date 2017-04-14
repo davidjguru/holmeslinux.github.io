@@ -1,18 +1,20 @@
 ---
 layout: page
-title: Manjaro ISOs
+title: Kibojoe e Manjaro ISOs
 permalink: /download/
 ---
 
 <p style="text-align: justify;">Aqui você vai encontrar as últimas ISOs para baixar.</p>
 
- ![XFCE]({{ site.baseurl }}/images/desktop-environment-xfce.png "XFCE edition")
- ![KDE]({{ site.baseurl }}/images/desktop-environment-kde.png "KDE edition")
- ![NET]({{ site.baseurl }}/images/net-edition.png "Net edition")
- ![GNOME]({{ site.baseurl }}/images/desktop-environment-gnome.png "GNOME edition")
- ![LXDE]({{ site.baseurl }}/images/desktop-environment-lxde.png "LXDE edition")
- ![MATE]({{ site.baseurl }}/images/desktop-environment-mate.png "MATE edition")
-e mais...
+<h2>Kibojoe</h2>
+
+* ### JWM 17.04rc1 Portela
+
+<img src="http://www.auplod.com/u/dluaop95535.png">
+
+Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html). 
+
+<h2>Manjaro</h2>
 
 * ### XFCE 17.0 Gellivara
 
