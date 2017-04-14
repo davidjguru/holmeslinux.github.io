@@ -6,7 +6,7 @@ permalink: /download/
 
 <p style="text-align: justify;">Aqui você vai encontrar as últimas ISOs para baixar.</p>
 
-<h2>Kibojoe</h2>
+<h2>:: Kibojoe ::</h2>
 
 * ### JWM 17.04rc1 Portela
 
@@ -14,7 +14,7 @@ permalink: /download/
 
 Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html). 
 
-<h2>Manjaro</h2>
+<h2>:: Manjaro ::</h2>
 
 * ### XFCE 17.0 Gellivara
 
