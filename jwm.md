@@ -8,7 +8,7 @@ permalink: /jwm/
 
 <img src="http://www.auplod.com/u/aldpuo95759.png">
 
-<p style="text-align: justify;">O Kibojoe é um <strong>re-spin</strong> fácil rápido, elegante e poderoso, que tem como base o Manjaro Linux e o JWM.</p>
+<p style="text-align: justify;">O Kibojoe é um <strong>re-spin</strong> fácil, rápido, elegante e poderoso, que tem como base o Manjaro Linux e o JWM.</p>
 
 ### Equipe
 

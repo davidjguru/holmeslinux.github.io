@@ -36,7 +36,7 @@ Para baixar o Manjaro Gnome é só clicar [aqui](https://manjaro.org/get-manjaro
 
 * ### Versões comunitárias
 
-<p style="text-align: justify;">BspWM, Budgie, Cinnamon, Deepin, Enligtenment, Fluxbox, i3, JWM, LXDE, Lxqt, Mate, Netbook, Openbox e PekWM. ATENÇÃO: Algumas versões comunitárias estão inativas!</p>
+<p style="text-align: justify;">BspWM, Budgie, Cinnamon, Deepin, Enligtenment, Fluxbox, i3, JWM, LXDE, Lxqt, Mate, Netbook, Openbox e PekWM. <strong>ATENÇÃO</strong>: Algumas versões comunitárias estão inativas!</p>
 
 Para baixar qualquer versão comunitária do Manjaro é só clicar [aqui](https://sourceforge.net/projects/manjarolinux/files/community/).
 
