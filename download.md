@@ -16,13 +16,13 @@ e mais...
 
 * ### XFCE 17.0 Gellivara
 
-<img src="http://www.auplod.com/u/aupdol8a829.png">
+<img src="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
 * ### KDE 17.0 Gellivara
 
-<img src="http://www.auplod.com/u/loupad8a82a.png">
+<img src="https://manjaro.org/wp-content/uploads/2017/03/kde-170.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
