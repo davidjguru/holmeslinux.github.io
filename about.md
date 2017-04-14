@@ -87,9 +87,9 @@ Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib
 
 ------
 
-<img src="http://www.auplod.com/u/ludpoa7e9c0.png">
-
 ## JWM (Joe's Window Manager)
+
+<img src="http://www.auplod.com/u/ludpoa7e9c0.png">
 
 <p style="text-align: justify;">JWM é um gerenciador de janelas leve para o X11 Window System e é desenvolvido por <a href="http://joewing.net/">Joe Wingbermuehle</a>. JWM é escrito em C e utiliza, no mínimo, apenas <a href="https://es.wikipedia.org/wiki/Xlib">Xlib</a>. Por causa de seu pequeno tamanho, JWM é um ótimo gerenciador de janelas para computadores mais antigas e sistemas com pouca potência; por outro lado ele é perfeitamente capaz de trabalhar perfeitamente em sistemas modernos. JWM está em distribuições pequenas, como Puppy Linux e Damn Small Linux, e ele também está disponível em muitas outras distribuições GNU/Linux. Embora não seja obrigatório, o JWM pode usar, se disponíveis, as seguintes bibliotecas:</p>
 
