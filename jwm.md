@@ -4,9 +4,15 @@ title: JWM Edition
 permalink: /jwm/
 ---
 
-<img src="http://www.auplod.com/u/opauld7e9a7.png">
+## Kibojoe = Manjaro + JWM
 
-## Manjaro e JWM juntos
+<a>src="http://www.auplod.com/u/odulpa956db.png" width="280" height="170"></a>
+
+O que é Kibojoe Linux? Kibo é um dos três vulcões do Killimanjaro, a montanha mais alta da Tanzânia. Adotamos o nome joe de Joe Wingbermuehle, criador e mantenedor do Joe's Window Manager (JWM). Então, dando créditos ao Manjaro Linux e Joe, combinar o nome e ficou Kibojoe. O logotipo representa a união do Manjaro com o JWM: i) o vulcão (cor verde) e ii) a letra j representa o interior do vulcão e a nuvem sobre ele (cor azul). O Kibojoe é um re-spin fácil, rápido, elegante e poderoso. É eficiente, estável, moderno, confiável e um sistema operacional GNU/Linux user-friendly. Kibojoe é configurado e otimizado para que ele possa facilmente executar as nossas atividades do dia-a-dia. Incorpora a filosofia KISS, é rolling-release e compatível com todos os benefícios do Manjaro Linux e ArchLinux. Criado com "Manjaro-Tools" e sempre mantido colaborativamente.
+
+## Manjaro e JWM juntos (projeto inativo)
+
+<img src="http://www.auplod.com/u/opauld7e9a7.png">
 
 <p style="text-align: justify;">Manjaro JWM Community Edition é um respin do Manjaro Linux usando o <a href="http://joewing.net/projects/jwm/index.shtml">JWM</a> e é mantido pela comunidade. JWM (Joe's Window Manager) é um gerenciador de janelas para X11 Window Manager escrito por Joe Wingbermuehle. 
 Este Window Manager está totalmente escrito em C e usa apenas, no mínimo, Xlib. O Manjaro JWM Community Edition é pensado para pessoas não-experientes e experientes na manipulação de WMs, que querem ter um sistema totalmente funcional após a sua instalação. Este projeto está sempre em desenvolvimento, então, as coisas podem mudar muito com cada lançamento. Mesmo que a versão atual é rotulada como dev, ela é suficientemente estável para o trabalho do dia-a-dia.</p> 
