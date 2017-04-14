@@ -28,15 +28,9 @@ Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/)
 
 * ### Gnome 17.0 Gellivara
 
-<img src="https://manjaro.org/wp-content/uploads/2017/03/gnome-170.png.png">
+<img src="http://www.auplod.com/u/dalpuo956d6.png">
 
 Para baixar o Manjaro Gnome é só clicar [aqui](https://manjaro.org/get-manjaro/).
-
-* ### Net-Edition 16.08 Ellada
-
-<img src="http://wstaw.org/m/2016/09/02/manjaro-net.png">
-
-Para baixar o Manjaro Net-Edition é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
 * ### Versões comunitárias
 
