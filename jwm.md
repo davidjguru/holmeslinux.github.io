@@ -4,13 +4,23 @@ title: JWM Edition
 permalink: /jwm/
 ---
 
-## Kibojoe = Manjaro + JWM (projeto ativo)
+## :: Kibojoe = Manjaro + JWM (projeto ativo) ::
 
 <img width="280" height="170" src="http://www.auplod.com/u/odulpa956db.png"/>
 
 <p style="text-align: justify;">O que é Kibojoe Linux? Kibo é um dos três vulcões do Killimanjaro, a montanha mais alta da Tanzânia. Adotamos o nome joe de Joe Wingbermuehle, criador e mantenedor do Joe's Window Manager (JWM). Então, dando créditos ao Manjaro Linux e Joe, combinar o nome e ficou Kibojoe. O logotipo representa a união do Manjaro com o JWM: i) o vulcão (cor verde) e ii) a letra j representa o interior do vulcão e a nuvem sobre ele (cor azul). O Kibojoe é um re-spin fácil, rápido, elegante e poderoso. É eficiente, estável, moderno, confiável e um sistema operacional GNU/Linux user-friendly. Kibojoe é configurado e otimizado para que ele possa facilmente executar as nossas atividades do dia-a-dia. Incorpora a filosofia KISS, é rolling-release e compatível com todos os benefícios do Manjaro Linux e ArchLinux. Criado com "Manjaro-Tools" e sempre mantido colaborativamente.</p>
 
-## Manjaro e JWM juntos (projeto inativo)
+### Equipe
+
+* Mantenedor: Holmes
+* Arte: [Beto](https://github.com/betos-graphics)
+
+### Versão estável (????)
+
+* [kibojoe ???? - 64bit](http://kibojoe.org/download.html) `MD5SUM: ????`
+* [User Orientation Guide ????](http://kibojoe.org/download.html)
+
+## :: Manjaro e JWM juntos (projeto inativo) ::
 
 <img src="http://www.auplod.com/u/opauld7e9a7.png">
 
