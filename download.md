@@ -14,17 +14,23 @@ permalink: /download/
  ![MATE]({{ site.baseurl }}/images/desktop-environment-mate.png "MATE edition")
 e mais...
 
-* ### XFCE 16.10.3 Fringilla
+* ### XFCE 17.0 Gellivara
 
 <img src="http://www.auplod.com/u/aupdol8a829.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
-* ### KDE 16.10.3 Fringilla
+* ### KDE 17.0 Gellivara
 
 <img src="http://www.auplod.com/u/loupad8a82a.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
+
+* ### Gnome 17.0 Gellivara
+
+<img src="https://manjaro.org/wp-content/uploads/2017/03/gnome-170.png.png">
+
+Para baixar o Manjaro Gnome é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
 * ### Net-Edition 16.08 Ellada
 
@@ -34,7 +40,7 @@ Para baixar o Manjaro Net-Edition é só clicar [aqui](https://manjaro.org/get-m
 
 * ### Versões comunitárias
 
-<p style="text-align: justify;"><strong>Ativas</strong>: BspWM, Deepin, Lxqt, LXDE, Cinnamon, i3, JWM, Gnome, Mate, Budgie e Netbook. <strong>Inativas</strong>: Enligtenment, Fluxbox, Openbox e PekWM. </p>
+<p style="text-align: justify;"><strong>Ativas</strong>: BspWM, Deepin, Lxqt, LXDE, Cinnamon, i3, Gnome, Mate, Budgie e Netbook. <strong>Inativas</strong>: Enligtenment, Fluxbox, Openbox e PekWM. </p>
 
 Para baixar qualquer versão comunitária do Manjaro é só clicar [aqui](https://sourceforge.net/projects/manjarolinux/files/community/).
 
