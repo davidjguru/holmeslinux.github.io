@@ -6,7 +6,7 @@ permalink: /download/
 
 <p style="text-align: justify;">Aqui você vai encontrar as últimas ISOs para baixar.</p>
 
-<h2>:: Kibojoe ::</h2>
+## Kibojoe Linux
 
 * ### JWM 17.04rc1 Portela
 
@@ -14,7 +14,7 @@ permalink: /download/
 
 Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html). 
 
-<h2>:: Manjaro ::</h2>
+## Manjaro Linux
 
 * ### XFCE 17.0 Gellivara
 
@@ -36,7 +36,7 @@ Para baixar o Manjaro Gnome é só clicar [aqui](https://manjaro.org/get-manjaro
 
 * ### Versões comunitárias
 
-<p style="text-align: justify;"><strong>Ativas</strong>: Lxqt, LXDE, Cinnamon e i3. <strong>Inativas</strong>: BspWM, Deepin, Mate, Budgie, Netbook, Enligtenment, Fluxbox, Openbox, JWM e PekWM. </p>
+<p style="text-align: justify;">BspWM, Budgie, Cinnamon, Deepin, Enligtenment, Fluxbox, i3, JWM, LXDE, Lxqt, Mate, Netbook, Openbox e PekWM. ATENÇÃO: Algumas versões comunitárias estão inativas!</p>
 
 Para baixar qualquer versão comunitária do Manjaro é só clicar [aqui](https://sourceforge.net/projects/manjarolinux/files/community/).
 
