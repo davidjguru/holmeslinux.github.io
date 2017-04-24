@@ -8,7 +8,7 @@ permalink: /download/
 
 ## Kibojoe Linux
 
-* ### JWM 17.04rc2 Portela (Code 24417)
+* ### JWM 17.04rc2 Portela (code 24417)
 
 <img src="http://www.auplod.com/u/oaudlp9608b.png">
 
