@@ -8,9 +8,9 @@ permalink: /download/
 
 ## Kibojoe Linux
 
-* ### JWM 17.04rc1 Portela
+* ### JWM 17.04rc2 Portela
 
-<img src="http://www.auplod.com/u/dluaop95535.png">
+<img src="http://www.auplod.com/u/oaudlp9608b.png">
 
 Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html). 
 
