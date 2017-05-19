@@ -10,7 +10,7 @@ permalink: /download/
 
 * ### JWM 17.04rc5 Portela (code 18517)
 
-<img src="http://www.auplod.com/u/oaudlp9608b.png">
+<img src="http://www.auplod.com/u/auodlp9747d.png">
 
 Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html). 
 
