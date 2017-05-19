@@ -8,7 +8,7 @@ permalink: /download/
 
 ## Kibojoe Linux
 
-* ### JWM 17.04rc2 Portela (code 24417)
+* ### JWM 17.04rc5 Portela (code 18517)
 
 <img src="http://www.auplod.com/u/oaudlp9608b.png">
 
@@ -16,19 +16,19 @@ Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html).
 
 ## Manjaro Linux
 
-* ### XFCE 17.0 Gellivara
+* ### XFCE 17.0.1 Gellivara
 
 <img src="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
-* ### KDE 17.0 Gellivara
+* ### KDE 17.0.1 Gellivara
 
 <img src="https://manjaro.org/wp-content/uploads/2017/03/kde-170.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
-* ### Gnome 17.0 Gellivara
+* ### Gnome 17.0.1 Gellivara
 
 <img src="http://www.auplod.com/u/dalpuo956d6.png">
 
